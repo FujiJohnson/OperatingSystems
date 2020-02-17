@@ -1,3 +1,5 @@
 The AppleIOS Operating system runs on all apple products such as Iphones, Ipads,and Macs.
 It is one of the most popular mobile operating systems and it includes features such as Siri, Homescreen, Gamecenter, ect.
 Continuity is a platform relased by apple that allows for users to merge features used on apple products.
+
+Windows is comprised of several systems with every new version that is produced.It comes with many productivity applications like calenders, word processors and spread sheets.The most recent versiom of Windows is Windows10 released in 2015. This includes a new browser known as Microsoft Edge to replace or pair with Internet Explorer. 
